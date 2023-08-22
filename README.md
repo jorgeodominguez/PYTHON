@@ -2,3 +2,7 @@
 
 - nombre : Jorge Omar Dominguez Valdez
 - Correo : 34155963@uaz.edu.mx
+
+Actividades del Curso
+- actividad 1
+- actividad 2
