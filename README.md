@@ -6,3 +6,5 @@
 Actividades del Curso
 - actividad 1
 - actividad 2
+- actividad 3
+- actividad 4
