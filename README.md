@@ -9,7 +9,12 @@ Actividades del Curso
 - p02-area-circulo
 - p03-area-triangulo
 - p04-paga-trabajador
+
 ## Actividad 2
+- p05-promedio-de-calificaciones
+- p06-operaciones-matematicas
+- p07-funciones-trigonometricas
+- p08-dividir-en-cifras
 
 ## Actividad 3
 
