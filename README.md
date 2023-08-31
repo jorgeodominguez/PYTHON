@@ -17,5 +17,9 @@ Actividades del Curso
 - p08-dividir-en-cifras
 
 ## Actividad 3
+- p15-verificar-numero
+- p16-verificar-suma
+- p17-convertir-temperatura
+- p18-paga-trabajador-v2
 
 ## Actividad 4
