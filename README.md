@@ -35,3 +35,13 @@ Actividades del Curso
 - p20-ley-de-newton
 - p21-aceptar-estudiante
 - p22-tipo-angulo
+
+## Tarea 2
+- 
+
+# Actividad 5
+- p29-numero-1-100
+- p30-numero-100-1
+- p31-numero-1-200-10
+- p32-numeros-suma-100
+- p33-conteo-numero
