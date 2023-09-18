@@ -45,3 +45,10 @@ Actividades del Curso
 - p31-numero-1-200-10
 - p32-numeros-suma-100
 - p33-conteo-numero
+
+# Actividad 6
+- p34-tabla-de-conversion
+- p35-conjentura-collatz
+- p36-tabla-multiplicar
+- p37-tabla-multiplicar-v2
+
