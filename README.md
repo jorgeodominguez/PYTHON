@@ -37,18 +37,25 @@ Actividades del Curso
 - p22-tipo-angulo
 
 ## Tarea 2
-- 
+- p23-numeros-consecutivos
+- p24-numero-mayor
+- p25-dia-de-la-semana
+- p26-numeros-romanos
+- p27-calculo-de-notas
+- p28-aceptar-estudiante-v2
 
-# Actividad 5
+## Actividad 5
 - p29-numero-1-100
 - p30-numero-100-1
 - p31-numero-1-200-10
 - p32-numeros-suma-100
 - p33-conteo-numero
 
-# Actividad 6
+## Actividad 6
 - p34-tabla-de-conversion
 - p35-conjentura-collatz
 - p36-tabla-multiplicar
 - p37-tabla-multiplicar-v2
+
+## Tarea 3
 
