@@ -65,3 +65,7 @@ Actividades del Curso
 - p42-conversion-temperaturas
 - p43-numero-mayor
 
+## Examen 1
+- p44-primer-examen-parcial
+
+
