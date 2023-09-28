@@ -75,4 +75,11 @@ Actividades del Curso
 - p48-suma-pares-impares
 - p49-suma-numeros
 
+## Actividad 8 
+- p50-factorial
+- p51-tabla-multiplicar
+- p52-tablas-multiplicar
+- p53-piramide-caracter
+- p54-factorial-numeros
+
 
