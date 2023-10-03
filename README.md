@@ -89,4 +89,11 @@ Actividades del Curso
 - p58-secuencia-numeros-2
 - p59-secuencia-termino-1
 
+## Actividad 9
+- p60-acceder-lista
+- p61-cambiar-lista
+- p62-agregar-lista
+- p63-remover-lista
+- p64-iterar-listas
+
 
