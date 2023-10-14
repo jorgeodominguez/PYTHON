@@ -96,16 +96,29 @@ Actividades del Curso
 - p63-remover-lista
 - p64-iterar-listas
 
-## Actividad 10
-- 
-
 ## Tarea 5
--
+- p65-acceder-lista
+- p66-modifcar-lista
+- p67-remover-lista
+- p68-lista-promedio
+
+## Actividad 10
+- p69–procesar-calificaciones
+- p70–sumar-listas
+- p71-dia-paga
+- p72-nombres-edades
+- p73-listas-aleatorios
 
 ## Actividad 11
 - p80-estudiante
 - p81-calificaciones
 - p82-nombres-edades
 
+## Tarea 6
+- p83-crear-acceder-diccionario
+- p84-modificar-diccionario
+- p85-agregar-diccionario
+- p86-eliminar-diccionario
+- p87-procesar-diccionario
 
 
