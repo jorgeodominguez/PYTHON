@@ -1,4 +1,4 @@
-#
+#calificaciones
 
 materias=['Fisica','Quimica','Matematicas','Geografia','Estadistica']
 califs=[10,9,8,7.5,6]
