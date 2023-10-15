@@ -102,17 +102,12 @@ Actividades del Curso
 - p67-remover-lista
 - p68-lista-promedio
 
-## Actividad 10
+## Actividad 10a
 - p69–procesar-calificaciones
 - p70–sumar-listas
 - p71-dia-paga
 - p72-nombres-edades
 - p73-listas-aleatorios
-
-## Actividad 11
-- p80-estudiante
-- p81-calificaciones
-- p82-nombres-edades
 
 ## Tarea 6
 - p83-crear-acceder-diccionario
@@ -120,5 +115,12 @@ Actividades del Curso
 - p85-agregar-diccionario
 - p86-eliminar-diccionario
 - p87-procesar-diccionario
+
+## Actividad 10
+- p80-estudiante
+- p81-calificaciones
+- p82-nombres-edades
+
+
 
 
