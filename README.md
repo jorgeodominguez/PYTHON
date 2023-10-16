@@ -121,6 +121,10 @@ Actividades del Curso
 - p81-calificaciones
 - p82-nombres-edades
 
+## Actividad 11
+- p76-trabajando-conjuntos
+- p77-operaciones-conjuntos
+
 
 
 
