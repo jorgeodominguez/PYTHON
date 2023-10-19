@@ -125,6 +125,13 @@ Actividades del Curso
 - p76-trabajando-conjuntos
 - p77-operaciones-conjuntos
 
+## Tarea 7
+- p88-personas
+- p89-numeros
+
+## Examen 2
+- p90-segundo-examen-parcial
+
 
 
 
