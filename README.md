@@ -132,6 +132,26 @@ Actividades del Curso
 - p88-personas
 - p89-numeros
 
+## Actividad 12
+
+- p91-funcion
+- p92-funcion-parametro
+- p93-funcion-parametros
+- p94-funcion-mas-parametros
+- p95-funcion-parametros-nombre
+- p96-funcion-parametros-por-defecto
+- p97-funcion-suma-numeros
+- p98-tabla-multiplicar
+- p99-cuadro-caracter
+- p100-numero-mayor
+- p101-estacion-año
+- p102-temperatura
+- p103-suma-digitos
+- p104-factorial
+- p105-calificación-letra
+- p106-suma-números-rango
+
+
 
 
 
