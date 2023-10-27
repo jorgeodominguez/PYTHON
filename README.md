@@ -151,6 +151,13 @@ Actividades del Curso
 - p105-calificación-letra
 - p106-suma-números-rango
 
+## tarea 8
+
+- p107-numero-menor
+- p108-dia-semana
+- p109-medidas-longitud
+- p110-suma-pares-impares
+
 
 
 
