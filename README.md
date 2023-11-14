@@ -189,6 +189,10 @@ Actividades del Curso
 ## Actividad 15
 - p130-ventas
 
+## Examen 3
+
+- p131-tercer-examen-parcial
+
 
 
 
